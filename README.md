@@ -19,6 +19,8 @@ Developed by:
 <!--
 Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations.
 -->
+User's inboxs are bombarded with spam emails which overpopulate the inbox. In turn it makes it harder for the user to find important emails and attend to them in a timely fashion .Deciphering between legitimate emails and spam is an inherent issue which could lead users  missing important information. With in this project we will develop several models (classifiers) to remedy this issue.
+
 
 ## Usage instructions
 <!--
@@ -26,8 +28,8 @@ Give details on how to install fork and install your project. You can get all of
 -->
 1. Fork this repo
 2. Change directories into your project
-3. On the command line, type `pip3 install requirements.txt`
-4. ....
+3. Go to 'spam and ham ' colab file
+4. Download 'spam and ham.csv'
 
 
 
@@ -38,8 +40,7 @@ ML Classifier comparison on "Spam" email Dataset
 Capstone Project Overview
 
 Project title:
-	Classifiers(model) 
-	Based on: ‘spam’ and ‘ham’(not spam)
+	Testing the efficacy of Neural Networks models on the detection of spam
 Goals:
 The project goal is to construct a model that is able to compare the performance of several classifiers accurately based on both accuracy and F1 score.
 To compare between ‘spam’ or ‘ham’(not spam) in an email inbox.
